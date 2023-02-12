@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62246552172",
+    "project_id": "final-assingment",
+    "storage_bucket": "final-assingment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62246552172:android:6f64ae255db54538fd0e49",
+        "android_client_info": {
+          "package_name": "com.hackproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62246552172-3h4qt9hkuqdf168pv7retn9bfrong851.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqZT0OZdp-8TJcQY_uo5vj6BAZRGoepBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62246552172-3h4qt9hkuqdf168pv7retn9bfrong851.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
